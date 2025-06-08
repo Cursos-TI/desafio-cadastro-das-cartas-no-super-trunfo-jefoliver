@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 Carta 1:
 Estado: A
@@ -16,7 +16,7 @@ Nome da Cidade: Rio de Janeiro
 População: 6748000
 Área: 1200.25 km²
 PIB: 300.50 bilhões de reais
-Número de Pontos Turísticos: 30   
+Número de Pontos Turísticos: 30           
 
     return 0;
 }
